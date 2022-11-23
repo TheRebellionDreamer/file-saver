@@ -1,16 +1,18 @@
 {
-	"name": "file-saver",
+	"name": "bravo-utils",
 	"version": "1.0.0",
-	"description": "Just util then save blob or file",
+	"description": "Set of customised utilities",
 	"main": "index.js",
 	"scripts": {
-		"build": "tsc",
-		"publish": "publish"
+		"build": "tsc"
 	},
 	"keywords": [
 		"file",
 		"save",
-		"blob"
+		"blob",
+		"font",
+		"styles",
+		"fontface"
 	],
 	"author": "TheRebellionDreamer",
 	"license": "ISC"
