@@ -1,5 +1,5 @@
 {
-	"name": "bravo-utils",
+	"name": "bravo-util",
 	"version": "1.0.0",
 	"description": "Set of customised utilities",
 	"main": "index.js",
