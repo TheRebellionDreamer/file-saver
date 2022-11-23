@@ -1,0 +1,17 @@
+{
+	"name": "file-saver",
+	"version": "1.0.0",
+	"description": "Just util then save blob or file",
+	"main": "index.js",
+	"scripts": {
+		"build": "tsc",
+		"publish": "publish"
+	},
+	"keywords": [
+		"file",
+		"save",
+		"blob"
+	],
+	"author": "TheRebellionDreamer",
+	"license": "ISC"
+}
